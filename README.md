@@ -1,6 +1,22 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=vanwayne8&color=blueviolet)
 
+Passionate with PC building and maybe a tiny amount of coding.
+<br/>
+
+### Languages?
+HTML<br>
+C<br>
+Python<br>
+
+### Stuff I use
+Putty<br>
+MobaXterm<br>
+Github<br>
+Visual Studio Code<br>
+Docker<br>
+Git<br>
+
 <!--
 **vanwayne8/vanwayne8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
